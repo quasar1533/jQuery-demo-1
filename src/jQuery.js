@@ -76,3 +76,5 @@ jQuery.fn = jQuery.prototype = {
     return this.elements[index];
   }, //得到一个单独的节点，这十分重要
 };
+
+//其他的方法逐渐更新
